@@ -35,7 +35,13 @@ necessary as root):
 
 Q. Why my vim in st is colorless ?
 A. You may the following in yout vimrc
-```
-let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
-let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
-```
+
+    let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
+    let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
+
+Q. I can't preview images in ranger of st
+A. Edit your ranger configuration as follows
+
+    1. # pip install ueberzug
+    2. set preview_images true
+    3. set preview_images_method ueberzug
