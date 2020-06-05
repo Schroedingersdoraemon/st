@@ -19,10 +19,9 @@ Xlib header files.
 Edit config.mk to match your local setup (st is installed into
 the /usr/local namespace by default).
 
-Afterwards enter the following command to build and install st (if
-necessary as root):
+Afterwards enter the following command to build and install st
 
-    make clean install
+    make clean install (as root)
 
 
 
@@ -43,6 +42,6 @@ A. You may the following in yout vimrc
 Q. I can't preview images in ranger of st
 A. Edit your ranger configuration as follows
 
-    1. # pip install ueberzug
+    1. pip install ueberzug (as root)
     2. set preview_images true
     3. set preview_images_method ueberzug
