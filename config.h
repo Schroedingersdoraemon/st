@@ -7,7 +7,7 @@
  */
 //static char *font = "monospace:pixelsize=24:antialias=true:autohint=true";
 //static char *font = "Consolas:pixelsize=24:antialias=true:autohint=true";
-static char *font = "SauceCodePro Nerd Font Mono:pixelsize=24:antialias=true:autohint=true";
+static char *font = "SauceCodePro Nerd Font Mono:pixelsize=28:antialias=true:autohint=true";
 //static char *font = "Source Code Pro:pixelsize=24:antialias=true:autohint=true";
 static int borderpx = 2;
 
