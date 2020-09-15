@@ -10,7 +10,7 @@ static char *font = "SauceCodePro Nerd Font Mono:pixelsize=28:antialias=true:aut
 static char *font2[] = {
 	//"Inconsolata for Powerline:pixelsize=12:antialias=true:autohint=true",
 	//"Hack Nerd Font Mono:pixelsize=11:antialias=true:autohint=true",
-    "JoyPixels:pixelsize=22:antialias=true:autohint=true"
+    "JoyPixels:pixelsize=19:antialias=true:autohint=true"
 };
 
 //static char *font = "Source Code Pro:pixelsize=24:antialias=true:autohint=true";
