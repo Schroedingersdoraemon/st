@@ -8,7 +8,7 @@
 static char *font = "SauceCodePro Nerd Font Mono:pixelsize=28:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-    "KaiTi-Regular:pixelsize=28:antialias=true:autohint=true"
+    "LXGW WenKai:style=Regular:pixelsize=28:antialias=true:autohint=true"
     "JoyPixels:pixelsize=19:antialias=true:autohint=true"
 };
 
