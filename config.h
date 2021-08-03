@@ -5,11 +5,11 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "SauceCodePro Nerd Font Mono:pixelsize=28:antialias=true:autohint=true";
+static char *font = "SauceCodePro Nerd Font Mono:pixelsize=25:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-    "LXGW WenKai:style=Regular:pixelsize=28:antialias=true:autohint=true",
-    "Noto Sans CJK SC:style=Regular:pixelsize=28:antialias=true:autohint=true",
+    "LXGW WenKai:style=Regular:pixelsize=25:antialias=true:autohint=true",
+    "Noto Sans CJK SC:style=Regular:pixelsize=25:antialias=true:autohint=true",
     "JoyPixels:pixelsize=19:antialias=true:autohint=true"
 };
 
